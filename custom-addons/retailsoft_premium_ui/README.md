@@ -1,0 +1,2 @@
+# RetailSoft Signature System 17.0.4.0.0
+Upgrade the existing retailsoft_premium_ui module. Native CSS shared view styling for backend forms, lists, Kanban, app catalog, search, settings, calendar, graph, pivot, Discuss and dialogs. Retains launcher and targeted System branding from V3. No core edits. Standalone POS, public websites, reports, email templates and custom independent layouts are outside the tested scope. Native animations, not GSAP or Lenis. Test on a development database before production. Live Odoo testing has not been performed.
