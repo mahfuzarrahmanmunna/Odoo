@@ -1,0 +1,28 @@
+cd ~/Projects/retailprojects
+
+cat > .gitignore <<'EOF'
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Odoo core repository
+odoo/
+
+# Sensitive configuration
+config/odoo.conf
+.env
+.env.*
+
+# Runtime data
+data/
+logs/
+backups/
+*.log
+*.dump
+
+# Temporary files
+*.swp
+.DS_Store
+EOF
