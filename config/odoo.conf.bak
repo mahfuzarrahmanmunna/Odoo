@@ -1,0 +1,25 @@
+[options]
+
+admin_passwd = 7cd819648e50ab684c768ba0a76dc9dca916101667f9495f
+
+db_host = 127.0.0.1
+db_port = 5432
+db_user = retailprojects
+db_password = Mahfuz!
+db_name = retailprojects_db
+dbfilter = ^retailprojects_db$
+
+addons_path = /home/mahfuz/Projects/retailprojects/odoo/odoo/addons,/home/mahfuz/Projects/retailprojects/odoo/addons,/home/mahfuz/Projects/retailprojects/custom-addons
+
+data_dir = /home/mahfuz/Projects/retailprojects/data
+
+http_interface = 127.0.0.1
+http_port = 8190
+
+logfile = /home/mahfuz/Projects/retailprojects/logs/odoo.log
+log_level = info
+
+workers = 0
+max_cron_threads = 1
+proxy_mode = False
+list_db = False

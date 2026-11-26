@@ -1,0 +1,182 @@
+REVIEW DUPLICATE: 100001 - Liquidity Transfer already exists as 101701
+EXISTS: 101001 - Bank Account
+REVIEW DUPLICATE: 101002 - Bank Suspense Account already exists as 101402
+REVIEW DUPLICATE: 101003 - Outstanding Receipts already exists as 101403
+REVIEW DUPLICATE: 101004 - Outstanding Payments already exists as 101404
+EXISTS: 101011 - bKash Merchant Account
+EXISTS: 101012 - Nagad Merchant Account
+EXISTS: 101013 - Rocket Merchant Account
+EXISTS: 101014 - Card Payment Clearing
+EXISTS: 101015 - Online Payment Gateway Clearing
+EXISTS: 101016 - Mobile Banking Settlement Clearing
+EXISTS: 102011 - Accounts Receivable
+EXISTS: 102012 - Accounts Receivable - POS
+EXISTS: 102013 - Post Dated Cheques Received
+EXISTS: 102014 - Other Receivables
+EXISTS: 102015 - Employee Advance
+EXISTS: 102016 - Supplier Advance
+EXISTS: 103001 - Merchandise Inventory
+EXISTS: 103002 - Stock Interim Received
+EXISTS: 103003 - Stock Interim Delivered
+EXISTS: 103004 - Goods in Transit
+EXISTS: 103005 - Packaging Materials Inventory
+EXISTS: 103006 - Inventory Landed Cost Clearing
+EXISTS: 104020 - Prepaid Expenses
+EXISTS: 104023 - Prepaid Showroom Rent
+EXISTS: 104024 - Prepaid Insurance
+EXISTS: 104025 - Prepaid License Fees
+EXISTS: 104026 - Prepaid Maintenance
+EXISTS: 104027 - Prepaid Software Subscription
+EXISTS: 104033 - Prepaid Advertising
+EXISTS: 104037 - Showroom Security Deposit
+EXISTS: 104040 - Other Security Deposits
+EXISTS: 104041 - Input VAT Receivable
+EXISTS: 104042 - Advance Income Tax - AIT
+EXISTS: 104043 - Tax Deducted at Source Receivable
+EXISTS: 104044 - VAT Deducted at Source Receivable
+EXISTS: 105001 - Cash in Hand
+EXISTS: 105002 - POS Cash
+EXISTS: 105004 - Petty Cash
+EXISTS: 106001 - Leasehold Improvements
+EXISTS: 106002 - Furniture and Fixtures
+EXISTS: 106003 - Computer and POS Equipment
+EXISTS: 106004 - Motor Vehicles
+EXISTS: 106005 - Capital Work in Progress
+EXISTS: 106006 - Accumulated Depreciation - Leasehold Improvements
+EXISTS: 106007 - Accumulated Depreciation - Furniture
+EXISTS: 106008 - Accumulated Depreciation - Computers
+EXISTS: 106009 - Accumulated Depreciation - Vehicles
+EXISTS: 106010 - Trademark and Software Rights
+EXISTS: 106012 - Display Racks and Shelving
+EXISTS: 106013 - Lighting and Electrical Equipment
+EXISTS: 106014 - Air Conditioner and Appliances
+EXISTS: 106015 - CCTV and Security Equipment
+EXISTS: 106016 - Accumulated Depreciation - Display Racks
+EXISTS: 106017 - Accumulated Depreciation - Electrical Equipment
+EXISTS: 106018 - Accumulated Depreciation - Appliances
+EXISTS: 106019 - Accumulated Depreciation - Security Equipment
+EXISTS: 201002 - Accounts Payable
+EXISTS: 201003 - Customer Advance
+REVIEW DUPLICATE: 201004 - Salary Payable already exists as 230000
+EXISTS: 201006 - Leave Salary Payable
+EXISTS: 201007 - Sales Commission Payable
+EXISTS: 201009 - Festival Bonus Payable
+EXISTS: 201011 - Utilities Payable
+EXISTS: 201012 - Telephone and Internet Payable
+EXISTS: 201014 - Audit Fees Payable
+EXISTS: 201015 - Showroom Rent Payable
+EXISTS: 201016 - Other Accrued Expenses
+EXISTS: 201017 - Output VAT Payable
+EXISTS: 201018 - Deferred Income
+EXISTS: 201020 - TDS Payable
+EXISTS: 201021 - VDS Payable
+EXISTS: 201022 - VAT Settlement Payable
+EXISTS: 201023 - Income Tax Payable
+EXISTS: 201024 - Short Term Bank Loan
+EXISTS: 201025 - Bank Overdraft
+EXISTS: 201026 - Gift Voucher Liability
+EXISTS: 201027 - Customer Refund Payable
+EXISTS: 201028 - Current Portion of Long Term Loan
+EXISTS: 202001 - Gratuity Provision
+EXISTS: 202004 - Long Term Bank Loan
+EXISTS: 202005 - Long Term Lease Liability
+EXISTS: 301001 - Owners Capital
+EXISTS: 301002 - Additional Capital Contribution
+EXISTS: 301003 - Owners Drawings
+EXISTS: 301004 - Retained Earnings
+EXISTS: 301005 - General Reserve
+REVIEW DUPLICATE: 400001 - Cost of Goods Sold already exists as 500000
+EXISTS: 410001 - Purchase Freight and Transportation
+EXISTS: 410002 - Non Recoverable Import Duty
+EXISTS: 410003 - Purchase Handling Charges
+EXISTS: 410004 - Inventory Shrinkage and Damage
+EXISTS: 410005 - Inventory Valuation Adjustment
+EXISTS: 410006 - Purchase Price Difference
+EXISTS: 400003 - Basic Salary
+EXISTS: 400004 - House Rent Allowance
+EXISTS: 400005 - Conveyance Allowance
+EXISTS: 400007 - Leave Salary Expense
+EXISTS: 400009 - Medical Allowance
+EXISTS: 400011 - Sales Commission
+EXISTS: 400012 - Other Staff Allowances
+EXISTS: 400013 - Staff Uniform Expense
+EXISTS: 400015 - Other Personnel Expenses
+EXISTS: 400016 - Showroom Rent
+EXISTS: 400017 - Storage Rent
+EXISTS: 400018 - Electricity and Water Bill
+EXISTS: 400019 - Other Utility Expenses
+EXISTS: 400020 - Telephone and Internet
+EXISTS: 400021 - Courier and Delivery Charges
+EXISTS: 400022 - Website and Hosting Expense
+EXISTS: 400026 - Staff Meals and Refreshments
+EXISTS: 400029 - Audit and Accounting Fees
+EXISTS: 400031 - Legal Expenses
+EXISTS: 400032 - Trade License and Renewal Fees
+EXISTS: 400033 - Professional Fees
+EXISTS: 400034 - Advertising and Marketing
+EXISTS: 400035 - Bad Debt Expense
+EXISTS: 400038 - Cash Shortage
+EXISTS: 400040 - Insurance Expense
+EXISTS: 400041 - Staff Training
+EXISTS: 400042 - Repair and Maintenance
+EXISTS: 400043 - Security and Guard Expense
+EXISTS: 400044 - Cleaning Expense
+EXISTS: 400045 - Software Subscription Expense
+EXISTS: 400046 - Gifts and Donations
+EXISTS: 400048 - Vehicle Expense
+EXISTS: 400049 - Local Conveyance Expense
+EXISTS: 400050 - Office and Stationery Expense
+EXISTS: 400051 - Bank Charges
+EXISTS: 400052 - Loss on Asset Disposal
+REVIEW DUPLICATE: 400053 - Foreign Exchange Loss already exists as 641000
+EXISTS: 400055 - Income Tax Expense
+EXISTS: 400057 - Other Operating Expenses
+EXISTS: 400058 - Card Processing Charges
+EXISTS: 400059 - Loan Interest and Finance Charges
+EXISTS: 400063 - Depreciation - Leasehold Improvements
+EXISTS: 400064 - Depreciation - Furniture
+EXISTS: 400065 - Depreciation - Computer and POS Equipment
+EXISTS: 400066 - Depreciation - Motor Vehicles
+EXISTS: 400067 - Consultancy Fees
+EXISTS: 400068 - Doubtful Debt Expense
+EXISTS: 420001 - Festival Bonus Expense
+EXISTS: 420002 - Overtime Expense
+EXISTS: 420003 - Staff Incentive Expense
+EXISTS: 420004 - Gratuity Expense
+EXISTS: 420005 - Shopping Bag and Packaging Expense
+EXISTS: 420006 - bKash Transaction Charges
+EXISTS: 420007 - Nagad Transaction Charges
+EXISTS: 420008 - Rocket Transaction Charges
+EXISTS: 420009 - Payment Gateway Charges
+EXISTS: 420010 - POS and Barcode Supplies
+EXISTS: 420011 - Showroom Decoration Expense
+EXISTS: 420012 - Depreciation - Display Racks
+EXISTS: 420013 - Depreciation - Electrical Equipment
+EXISTS: 420014 - Depreciation - Appliances
+EXISTS: 420015 - Depreciation - Security Equipment
+EXISTS: 500001 - Retail Sales
+EXISTS: 500014 - Wholesale Sales
+EXISTS: 500015 - Online Sales
+EXISTS: 500016 - Sales Returns and Allowances
+EXISTS: 500017 - Sales Discounts
+EXISTS: 500008 - Service Income
+EXISTS: 500009 - Bank Interest Income
+EXISTS: 500010 - Gain on Asset Disposal
+REVIEW DUPLICATE: 500011 - Foreign Exchange Gain already exists as 441000
+REVIEW DUPLICATE: 500013 - Other Income already exists as 450000
+REVIEW DUPLICATE: 999001 - Cash Difference Gain already exists as 442000
+REVIEW DUPLICATE: 999002 - Cash Difference Loss already exists as 642000
+REVIEW DUPLICATE: 999997 - Cash Discount Gain already exists as 643000
+REVIEW DUPLICATE: 999998 - Cash Discount Loss already exists as 443000
+CONFLICT: 999999 | Existing: Undistributed Profits/Losses | Proposed: Current Year Earnings
+============================================================
+BANGLADESH RETAIL CHART OF ACCOUNTS
+Company: My Company
+Country: Bangladesh
+Currency: BDT
+Proposed accounts: 171
+New accounts: 0
+Existing/skipped: 157
+Conflicts requiring review: 14
+PREVIEW ONLY - NO CHANGES SAVED
+============================================================

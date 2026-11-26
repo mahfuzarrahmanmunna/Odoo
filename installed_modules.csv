@@ -1,0 +1,110 @@
+name,module_name,author,latest_version,state
+account,Invoicing,Odoo S.A.,17.0.1.2,installed
+account_add_gln,Add Partner GLN,Odoo S.A.,17.0.1.0,installed
+account_check_printing,Check Printing Base,Odoo S.A.,17.0.1.0,installed
+account_edi_ubl_cii,Import/Export electronic invoices with UBL/CII,Odoo S.A.,17.0.1.0,installed
+accounting_pdf_reports,Odoo 17 Accounting Financial Reports,"Odoo Mates, Odoo SA",17.0.4.0,installed
+account_payment,Payment - Account,Odoo S.A.,17.0.2.0,installed
+account_payment_term,Payment Term - Days end of month on the,Odoo S.A.,17.0.1.0,installed
+analytic,Analytic Accounting,Odoo S.A.,17.0.1.2,installed
+auth_signup,Signup,Odoo S.A.,17.0.1.0,installed
+auth_totp,Two-Factor Authentication (TOTP),Odoo S.A.,17.0.1.0,installed
+auth_totp_mail,2FA Invite mail,Odoo S.A.,17.0.1.0,installed
+auth_totp_portal,TOTPortal,Odoo S.A.,17.0.1.0,installed
+barcodes,Barcode,Odoo S.A.,17.0.2.0,installed
+barcodes_gs1_nomenclature,Barcode - GS1 Nomenclature,Odoo S.A.,17.0.1.0,installed
+base,Base,Odoo S.A.,17.0.1.3,installed
+base_import,Base import,Odoo S.A.,17.0.2.0,installed
+base_import_module,Base import module,Odoo S.A.,17.0.1.0,installed
+base_install_request,Base - Module Install Request,Odoo S.A.,17.0.1.0,installed
+base_setup,Initial Setup Tools,Odoo S.A.,17.0.1.0,installed
+bus,IM Bus,Odoo S.A.,17.0.1.0,installed
+contacts,Contacts,Odoo S.A.,17.0.1.0,installed
+digest,KPI Digests,Odoo S.A.,17.0.1.1,installed
+google_gmail,Google Gmail,Odoo S.A.,17.0.1.2,installed
+hr,Employees,Odoo S.A.,17.0.1.1,installed
+hr_expense,Expenses,Odoo S.A.,17.0.2.0,installed
+hr_org_chart,HR Org Chart,Odoo S.A.,17.0.1.0,installed
+hr_skills,Skills Management,Odoo S.A.,17.0.1.0,installed
+http_routing,Web Routing,Odoo S.A.,17.0.1.0,installed
+iap,In-App Purchases,Odoo S.A.,17.0.1.1,installed
+iap_mail,IAP / Mail,Odoo S.A.,17.0.1.0,installed
+l10n_bd,Bangladesh - Accounting,Odoo S.A.,17.0.1.0,installed
+l10n_mt_pos,Malta - Point of Sale,Odoo S.A.,17.0.1.0,installed
+mail,Discuss,Odoo S.A.,17.0.1.15,installed
+mail_bot,OdooBot,Odoo S.A.,17.0.1.2,installed
+mail_bot_hr,OdooBot - HR,Odoo S.A.,17.0.1.0,installed
+om_account_accountant,Odoo 17 Accounting Community,"Odoo Mates, Walnut Software Solutions, Odoo SA",17.0.2.2.1,installed
+om_account_asset,Odoo 17 Assets Management,"Odoo Mates, Odoo SA",17.0.1.4.0,installed
+om_account_bank_statement_import,Odoo 17 Bank Statement Import,Odoo Mates,17.0.2.1.0,installed
+om_account_budget,Odoo 17 Budget Management,"Odoo Mates, Odoo SA",17.0.1.3,installed
+om_account_budget_purchase,Odoo 17 Budget Management - Purchase,Odoo Mates,17.0.1.0.0,installed
+om_account_cash_forecast,Odoo 17 Cash Forecast,Odoo Mates,17.0.1.0.1,installed
+om_account_check_printing,Odoo 17 Cheque Printing,Odoo Mates,17.0.1.1.0,installed
+om_account_daily_reports,"Cash Book, Day Book, Bank Book Financial Reports",Odoo Mates,17.0.2.0,installed
+om_account_followup,Customer Follow Up Management,"Odoo Mates, Odoo S.A",17.0.2.1.0,installed
+om_account_reconcile,Odoo 17 Reconciliation,Odoo Mates,17.0.1.1.0,installed
+om_currency_rate_update,Odoo 17 Automatic Currency Rates,Odoo Mates,17.0.1.0.0,installed
+om_currency_revaluation,Odoo 17 Currency Revaluation,Odoo Mates,17.0.1.0.2,installed
+om_fiscal_year,Odoo 17 Fiscal Year & Lock Date,"Odoo Mates, Odoo SA",17.0.1.4,installed
+om_print_journal_entry,Print Journal Entries,Odoo Mates,17.0.1.1.0,installed
+om_recurring_payments,Odoo 17 Recurring Payment,Odoo Mates,17.0.1.1.0,installed
+om_spreadsheet_account,Odoo 17 Accounting Dashboards,Odoo Mates,17.0.1.0.1,installed
+om_spreadsheet_account_asset,Odoo 17 Assets Dashboard,Odoo Mates,17.0.1.0.0,installed
+om_spreadsheet_account_budget,Odoo 17 Budgets Dashboard,Odoo Mates,17.0.1.0.0,installed
+om_spreadsheet_account_followup,Odoo 17 Follow-ups and Cash Forecast Dashboard,Odoo Mates,17.0.1.0.0,installed
+onboarding,Onboarding Toolbox,Odoo S.A.,17.0.1.2,installed
+partner_autocomplete,Partner Autocomplete,Odoo S.A.,17.0.1.1,installed
+payment,Payment Engine,Odoo S.A.,17.0.2.0,installed
+phone_validation,Phone Numbers Validation,Odoo S.A.,17.0.2.1,installed
+point_of_sale,Point of Sale,Odoo S.A.,17.0.1.0.1,installed
+portal,Customer Portal,Odoo S.A.,17.0.1.0,installed
+pos_epson_printer,POS Epson Printer,Odoo S.A.,17.0.1.0,installed
+pos_hr,POS - HR,Odoo S.A.,17.0.1.0,installed
+pos_online_payment,Point of Sale online payment,Odoo S.A.,17.0.1.0,installed
+pos_sale,POS - Sales,Odoo S.A.,17.0.1.1,installed
+pos_sale_margin,POS - Sale Margin,Odoo S.A.,17.0.1.1,installed
+pos_sale_product_configurator,POS - Sale Product Configurator,Odoo S.A.,17.0.1.0,installed
+privacy_lookup,Privacy,Odoo S.A.,17.0.1.0,installed
+product,Products & Pricelists,Odoo S.A.,17.0.1.2,installed
+purchase,Purchase,Odoo S.A.,17.0.1.2,installed
+purchase_stock,Purchase Stock,Odoo S.A.,17.0.1.2,installed
+resource,Resource,Odoo S.A.,17.0.1.1,installed
+retailsoft_premium_ui,RetailSoft Signature System,RetailSoft,17.0.4.0.0,installed
+sale,Sales,Odoo S.A.,17.0.1.2,installed
+sale_async_emails,Sales - Async Emails,Odoo S.A.,17.0.1.0,installed
+sale_expense,Sales Expense,Odoo S.A.,17.0.1.0,installed
+sale_expense_margin,Sales Expense Margin,Odoo S.A.,17.0.1.0,installed
+sale_management,Sales,Odoo S.A.,17.0.1.0,installed
+sale_margin,Margins in Sales Orders,Odoo S.A.,17.0.1.0,installed
+sale_pdf_quote_builder,Sales PDF Quotation Builder,Odoo S.A.,17.0.1.0,installed
+sale_product_configurator,Sale Product Configurator,Odoo S.A.,17.0.1.0,installed
+sale_purchase,Sale Purchase,Odoo S.A.,17.0.1.0,installed
+sale_purchase_stock,MTO Sale <-> Purchase,Odoo S.A.,17.0.1.0,installed
+sale_sms,Sale - SMS,Odoo S.A.,17.0.1.0,installed
+sales_team,Sales Teams,Odoo S.A.,17.0.1.1,installed
+sale_stock,Sales and Warehouse Management,Odoo S.A.,17.0.1.0,installed
+sale_stock_margin,Sale Stock Margin,Odoo S.A.,17.0.0.1,installed
+sms,SMS gateway,Odoo S.A.,17.0.3.0,installed
+snailmail,Snail Mail,Odoo S.A.,17.0.0.4,installed
+snailmail_account,Snail Mail - Account,Odoo S.A.,17.0.0.1,installed
+spreadsheet,Spreadsheet,Odoo S.A.,17.0.1.0,installed
+spreadsheet_account,Spreadsheet Accounting Formulas,Odoo S.A.,17.0.1.0,installed
+spreadsheet_dashboard,Spreadsheet dashboard,Odoo S.A.,17.0.1.0,installed
+spreadsheet_dashboard_account,Spreadsheet dashboard for accounting,Odoo S.A.,17.0.1.0,installed
+spreadsheet_dashboard_hr_expense,Spreadsheet dashboard for expenses,Odoo S.A.,17.0.1.0,installed
+spreadsheet_dashboard_pos_hr,Spreadsheet dashboard for point of sale,Odoo S.A.,17.0.1.0,installed
+spreadsheet_dashboard_purchase,Spreadsheet dashboard for purchases,Odoo S.A.,17.0.1.0,installed
+spreadsheet_dashboard_purchase_stock,Spreadsheet dashboard for purchases,Odoo S.A.,17.0.1.0,installed
+spreadsheet_dashboard_sale,Spreadsheet dashboard for sales,Odoo S.A.,17.0.1.0,installed
+spreadsheet_dashboard_stock_account,Spreadsheet dashboard for stock,Odoo S.A.,17.0.1.0,installed
+stock,Inventory,Odoo S.A.,17.0.1.1,installed
+stock_account,WMS Accounting,Odoo S.A.,17.0.1.1,installed
+stock_sms,Stock - SMS,Odoo S.A.,17.0.1.0,installed
+uom,Units of measure,Odoo S.A.,17.0.1.0,installed
+utm,UTM Trackers,Odoo S.A.,17.0.1.1,installed
+web,Web,Odoo S.A.,17.0.1.0,installed
+web_editor,Web Editor,Odoo S.A.,17.0.1.0,installed
+web_hierarchy,Web Hierarchy,Odoo S.A.,17.0.1.0,installed
+web_tour,Tours,Odoo S.A.,17.0.0.1,installed
+web_unsplash,Unsplash Image Library,Odoo S.A.,17.0.1.1,installed
